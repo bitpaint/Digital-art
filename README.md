@@ -10,4 +10,5 @@ Lightning tips: https://btcpay177475.lndyn.com/
 
 
 
-![image](https://raw.githubusercontent.com/bitpaint/Digital-art/master/Second%20bailout%20.png)
+<img src="https://raw.githubusercontent.com/bitpaint/Digital-art/master/Second%20bailout%20.png" width="300px" height="auto">
+
