@@ -10,6 +10,10 @@ Lightning tips: https://btcpay177475.lndyn.com/
 
 
 <img src="https://raw.githubusercontent.com/bitpaint/Digital-art/master/Second%20bailout%20.png" width="300px" height="auto"> <b>Second Bailout<b> - Bitpaint 2020
+  
+  
+<img src="https://raw.githubusercontent.com/bitpaint/Digital-art/master/CyberHornet.png" width="300px" height="auto"> <b>Cyber Hornet<b> - Bitpaint 2020
+
 
 
 
