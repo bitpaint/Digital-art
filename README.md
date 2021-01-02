@@ -1,4 +1,4 @@
-Bitcoin themed digital artwork, no prints available. (print your own if you wanna print)
+Bitcoin themed digital artwork, no prints available. <br>print your own if you wanna print. :P
 
 
 
